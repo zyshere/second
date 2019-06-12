@@ -34,7 +34,6 @@
         "jquery": "3.3.1"
     },
     "devDependencies": {
-        "build": "npm install preact-cli && preact build".
         "browser-sync": "2.26.3",
         "gulp": "4.0.0"
     }
